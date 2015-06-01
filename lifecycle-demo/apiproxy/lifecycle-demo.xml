@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="lifecycle-demo">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1433133358562</CreatedAt>
+    <CreatedBy>adminui@apigee.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>lifecycle-demo</DisplayName>
+    <LastModifiedAt>1433133358562</LastModifiedAt>
+    <LastModifiedBy>adminui@apigee.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
