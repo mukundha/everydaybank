@@ -11,7 +11,7 @@
         <Response/>
     </PostFlow>
     <HTTPProxyConnection>
-        <BasePath>/v3/catalogs</BasePath>
+        <BasePath>/v2/catalogs</BasePath>
         <VirtualHost>default</VirtualHost>
         <VirtualHost>secure</VirtualHost>
     </HTTPProxyConnection>
